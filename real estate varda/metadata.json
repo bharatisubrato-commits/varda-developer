@@ -1,0 +1,8 @@
+{
+  "name": "Vadra Developer",
+  "description": "Enterprise real estate development platform for Vadra Developer in Durgapur (PIN 713217), West Bengal — featuring luxury residential townships, commercial landmarks, property search, inquiry management, and a protected admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
